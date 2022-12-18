@@ -1,0 +1,16 @@
+{
+    "shell-version": [
+        "42","43"
+    ],
+    "uuid": "activities-area-horizontal-spacing@kosciak.net",
+    "name": "Activities Area Horizontal Spacing",
+    "description": "Reduce the horizontal spacing between icons in the top-left activities area",
+    "settings-schema": "org.gnome.shell.extensions.status-area-horizontal-spacing",
+    "gettext-domain": "org.gnome.shell.extensions.status-area-horizontal-spacing",
+    "url": "",
+    "dev-version": "2.1.4",
+    "session-modes": [
+        "user",
+        "unlock-dialog"
+    ]
+}
